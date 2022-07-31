@@ -4,5 +4,6 @@ WIDTH - Sets width of the active area
 HEIGHT - Sets height of the active area  
 DELAY - Delay per refresh  
 CHANCE-MULTIPLIER - Chance multiplier of spawning raindrops  
+WIND - Wind direction
 INVERSE - Reverse raindrop direction
 
